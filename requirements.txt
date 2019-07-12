@@ -1,0 +1,13 @@
+numpy
+pandas
+librosa
+plotly
+scipy
+seaborn
+python_speech_features
+matplotlib
+sklearn
+h5py
+pyyaml
+numpy_indexed
+keract
